@@ -1,0 +1,9 @@
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\SimpleTextSearchLibrary.dll
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\SimpleTextSearchLibrary.pdb
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.csprojAssemblyReference.cache
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.csproj.CoreCompileInputs.cache
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.dll
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.pdb
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\Common.dll
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\Common.pdb
+c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.csproj.CopyComplete

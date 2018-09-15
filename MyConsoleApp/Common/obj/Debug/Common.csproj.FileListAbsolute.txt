@@ -1,0 +1,6 @@
+c:\users\bruce wayne\source\repos\MyConsoleApp\Common\bin\Debug\Common.dll
+c:\users\bruce wayne\source\repos\MyConsoleApp\Common\bin\Debug\Common.pdb
+c:\users\bruce wayne\source\repos\MyConsoleApp\Common\obj\Debug\Common.csprojAssemblyReference.cache
+c:\users\bruce wayne\source\repos\MyConsoleApp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+c:\users\bruce wayne\source\repos\MyConsoleApp\Common\obj\Debug\Common.dll
+c:\users\bruce wayne\source\repos\MyConsoleApp\Common\obj\Debug\Common.pdb

@@ -1,0 +1,14 @@
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csprojAssemblyReference.cache
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\Common.dll
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\SimpleTextSearchLibrary.dll
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\Common.pdb
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\SimpleTextSearchLibrary.pdb
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CopyComplete
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\SpecialTextSearchLibrary.dll
+c:\users\bruce wayne\source\repos\MyConsoleApp\MyConsoleApp\bin\Debug\SpecialTextSearchLibrary.pdb
