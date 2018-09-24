@@ -1,0 +1,15 @@
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\obj\Debug\Presenters.csprojAssemblyReference.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\obj\Debug\Presenters.csproj.CoreCompileInputs.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\Presenters.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\Presenters.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\Common.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\IMainFormsApp.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\IMainFormsApp.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\Common.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\obj\Debug\Presenters.csproj.CopyComplete
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\obj\Debug\Presenters.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\obj\Debug\Presenters.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\IModel.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\Models.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\Models.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\bin\Debug\IModel.pdb

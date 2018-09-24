@@ -1,0 +1,15 @@
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\Models.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\Models.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\Common.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\Common.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\obj\Debug\Models.csproj.CopyComplete
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\obj\Debug\Models.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\obj\Debug\Models.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\IModel.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\IModel.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\obj\Debug\Models.csprojAssemblyReference.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\SimpleTextSearchLibrary.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\SpecialTextSearchLibrary.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\SimpleTextSearchLibrary.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Model\bin\Debug\SpecialTextSearchLibrary.pdb

@@ -7,3 +7,12 @@ c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug
 c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\Common.dll
 c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\Common.pdb
 c:\users\bruce wayne\source\repos\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.csproj.CopyComplete
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\SimpleTextSearchLibrary.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\SimpleTextSearchLibrary.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\Common.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\bin\Debug\Common.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.csprojAssemblyReference.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.csproj.CoreCompileInputs.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.csproj.CopyComplete
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\SimpleTextSearchLibrary\obj\Debug\SimpleTextSearchLibrary.pdb

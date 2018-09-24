@@ -1,0 +1,2 @@
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\obj\Debug\Presenter.csprojAssemblyReference.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache

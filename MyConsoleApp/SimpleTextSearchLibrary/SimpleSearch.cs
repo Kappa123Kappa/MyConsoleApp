@@ -1,33 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Common;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using Common;
 
 namespace SimpleTextSearchLibrary
 {
-    public class SimpleSearch : Common.ISearcher
+    public class SimpleSearch : ISearcher
     {
-        private string methodName = "SimpleSearch";
+        private string _methodName = "SimpleSearch";
 
-        private string version = "1.0";
+        private string _version = "1.0";
 
         public string Version
         {
-            get { return version; }
-            set { version = value; }
+            get { return _version; }
+            set { _version = value; }
         }
 
-        public string Result { get; set; }
+        public string Result { get; set; } = "";
 
         public string MethodName
         {
-            get { return methodName; }
-            set { methodName = value; }
+            get { return _methodName; }
+            set { _methodName = value; }
         }
 
+        /// <summary>
+        /// Method returns its description 
+        /// </summary>
         public string AboutSearchMethod()
         {
             return MethodName + "; current version: " + Version + ";\n" +
@@ -35,10 +34,12 @@ namespace SimpleTextSearchLibrary
                 "to the pre-entered string, based on its register and all characters.";
         }
 
+        /// <summary>
+        /// Search method which looks for a string whith its register and all characters 
+        /// </summary>
         public ISearcher Search(string word, StreamReader streamReader)
         {
             string line;
-            StringBuilder lineWithString;
             while ((line = streamReader.ReadLine()) != null)
             {
                 int firstIndexOfSubstring = line.IndexOf(word);

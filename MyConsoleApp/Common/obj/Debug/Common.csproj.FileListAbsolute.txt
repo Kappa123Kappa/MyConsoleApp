@@ -4,3 +4,9 @@ c:\users\bruce wayne\source\repos\MyConsoleApp\Common\obj\Debug\Common.csprojAss
 c:\users\bruce wayne\source\repos\MyConsoleApp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 c:\users\bruce wayne\source\repos\MyConsoleApp\Common\obj\Debug\Common.dll
 c:\users\bruce wayne\source\repos\MyConsoleApp\Common\obj\Debug\Common.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Common\bin\Debug\Common.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Common\bin\Debug\Common.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Common\obj\Debug\Common.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Common\obj\Debug\Common.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\Common\obj\Debug\Common.csprojAssemblyReference.cache

@@ -1,41 +1,41 @@
 ﻿using Common;
-using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace SpecialTextSearchLibrary
 {
-    public class SpecialSearch : Common.ISearcher
+    public class SpecialSearch : ISearcher
     {
-        private string methodName = "SpecialSearch";
+        private string _methodName = "SpecialSearch";
 
-        private string version = "1.0";
+        private string _version = "1.0";
 
         public string Version
         {
-            get { return version; }
-            set { version = value; }
+            get { return _version; }
+            set { _version = value; }
         }
 
-        public string Result { get; set; }
+        public string Result { get; set; } = "-";
 
         public string MethodName
         {
-            get { return methodName; }
-            set { methodName = value; }
+            get { return _methodName; }
+            set { _methodName = value; }
         }
 
+
+        /// <summary>
+        /// Search method which looks for a string without its register and all spaces
+        /// </summary>
         public ISearcher Search(string word, StreamReader streamReader)
         {
-            string line;
-            StringBuilder lineWithString;
-            while ((line = streamReader.ReadLine()) != null)
+            string line = "";
+            while (streamReader.ReadLine() != null)
             {
-                string tempLine = line.ToUpper();
+                line = streamReader.ReadLine();
+                string tempLine = streamReader.ReadLine();
                 RegexOptions options = RegexOptions.None;
                 Regex regex = new Regex("[ ]{2,}", options);
                 tempLine = regex.Replace(tempLine, " ");
@@ -50,6 +50,9 @@ namespace SpecialTextSearchLibrary
             return this;
         }
 
+        /// <summary>
+        /// Method returns its description 
+        /// </summary>
         public string AboutSearchMethod()
         {
             return MethodName + "; current version: " + Version + ";\n" +

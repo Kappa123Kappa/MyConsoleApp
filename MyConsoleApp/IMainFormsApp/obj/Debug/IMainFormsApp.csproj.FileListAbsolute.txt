@@ -1,0 +1,6 @@
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\IMainFormsApp\bin\Debug\IMainFormsApp.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\IMainFormsApp\bin\Debug\IMainFormsApp.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\IMainFormsApp\obj\Debug\IMainFormsApp.csproj.CoreCompileInputs.cache
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\IMainFormsApp\obj\Debug\IMainFormsApp.dll
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\IMainFormsApp\obj\Debug\IMainFormsApp.pdb
+D:\MyConsoleApp\MyConsoleApp\MyConsoleApp\IMainFormsApp\obj\Debug\IMainFormsApp.csprojAssemblyReference.cache
